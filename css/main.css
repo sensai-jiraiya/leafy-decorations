@@ -23,6 +23,10 @@ html {
 
 .nav a {
   text-decoration: none;
+  border: solid 3px #2d5a4d;
+  border-radius: 8px;
+  background-color: #467366;
+  color: #fff;
 }
 
 .nav a:hover {
