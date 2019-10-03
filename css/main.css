@@ -10,7 +10,6 @@ html {
   background-size: 64px;
   border-top: 3px solid #2d5a4d;
   border-bottom: 3px solid #2d5a4d;
-
 }
 
 .logo {
@@ -30,6 +29,12 @@ html {
 }
 
 .nav a:hover {
+  color: #145b1d;
+  background-image: url(../images/leaf-icon.svg);
+  background-color: #fff;
+  background-position: center;
+  background-size: 64px;
+  background-repeat: no-repeat;
 
 }
 
