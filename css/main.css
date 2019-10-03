@@ -39,10 +39,17 @@ html {
 }
 
 .banner {
-  background-image: url("")
+  background-image: url("../images/two-leaves.svg");
+  background-size: 100px auto;
+  background-repeat: no-repeat;
+  background-position: .75em 180px;
+  padding-top: 100px;
 }
 
 .banner-content {
+  background-image: url("../images/banner.jpg");
+  background-size: 100px auto;
+  background-repeat: no-repeat;
 
 }
 
